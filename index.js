@@ -1,3 +1,3 @@
 function happyHolidays() {
-  return string.toUpperCase()
+  return 
 }
